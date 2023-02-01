@@ -1,6 +1,6 @@
 # Personal publication results and rewards
 
-[中文版本请看这里]()
+[中文版本请看这里](https://github.com/JamieOw119/JamiePapers/blob/master/README_chinese.md)
 
 ## Papers
 
