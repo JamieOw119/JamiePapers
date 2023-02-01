@@ -1,5 +1,7 @@
 # Personal publication results and rewards
 
+[中文版本请看这里]()
+
 ## Papers
 
 > The originals of all my small papers are PDF documents in the root directory of this repository
@@ -45,7 +47,7 @@
 1. MCM/ICM：Meritorious Winner
 2. APMCM：Second Prize
 3. National University Data-Driven Innovation Research Competition：Excellence Award
-4. Microsoft Audio Deep Packet Loss Challenge (Interspeech 2022 workshop)：Sixth Place
+4. Microsoft Audio Deep Packet Loss Challenge (INTERSPEECH 2022 workshop)：Sixth Place
 5. The 5th "Shenwei Cup" Domestic CPU Parallel Computing Challenge：Winner
 6. 2021 ACM China International Parallel Computing Challenge：Second Prize
 
